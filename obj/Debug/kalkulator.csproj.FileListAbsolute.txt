@@ -1,0 +1,14 @@
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\App.g.cs
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\kalkulator_MarkupCompile.cache
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\kalkulator_MarkupCompile.lref
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\MainWindow.baml
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\kalkulator.g.resources
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\matih\Documents\semestr4\programowanie\kalkulator\obj\Debug\kalkulator.pdb
